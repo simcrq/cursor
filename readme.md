@@ -5,6 +5,7 @@
 本脚本用于处理实验数据，包括读取xlsx文档、清洗过于离谱的数据、绘制图表和线性拟合。
 
 ## 文件树
+```bash
 .
 ├── Excel示例数据.png
 ├── Instructions.txt
@@ -16,7 +17,7 @@
 ├── readme.md
 ├── src
     └── process_data.py
-
+```
 
 ## 使用方法
 
